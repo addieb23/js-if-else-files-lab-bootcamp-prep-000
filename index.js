@@ -12,4 +12,3 @@ else console.log ("Expected the height to be 70earn")
 // Don't worry about this
 module.exports = { name, height
 }
-
